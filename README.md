@@ -76,6 +76,12 @@
 
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=james-mumo&count_private=true&show_icons=true&theme=tokyonight)
 
+
+  <br/>
+
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=james-mumo" alt="id1945"/> </p>
+
+
 ## Top Languages
 </div>
 
@@ -84,10 +90,6 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-mumo&hide=CMake,C++,jupyter%20notebook&layout=compact)
 
   <br/>
-  <br/>
-
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=james-mumo" alt="id1945"/> </p>
-
 
 </div>
 
