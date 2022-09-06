@@ -86,7 +86,7 @@
   <br/>
   <br/>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=james-mumo" alt="id1945"/> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=james-mumo" alt="id1945"/> </p>
 
 
 </div>
