@@ -78,8 +78,10 @@
 
 </div>
 
+<div align="center">
 ## Top Languages
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-mumo&hide=javascript,html,typescript,css,jupyter%20notebook&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-mumo&hide=CMake,C++,jupyter%20notebook&layout=compact)
 
+</div>
 
 
