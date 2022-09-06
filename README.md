@@ -25,7 +25,10 @@
 
 
   [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,linux,js,ts,vscode)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <br/>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase)](https://skillicons.dev)
+  <br/>  
+  [![My Skills](https://skillicons.dev/icons?i=java,flutter,kotlin,dart)](https://skillicons.dev)
 
 <!-- for adding more tech stack icons USE BELOW LINK-->
 <!-- https://github.com/tandpfun/skill-icons#readme -->
