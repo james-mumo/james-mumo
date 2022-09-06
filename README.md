@@ -24,7 +24,8 @@
 <h2>My Tech Stack </h2>
 
 
-  [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,linux,js,ts,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,linux,js,ts)](https://skillicons.dev)
+  <br/>
   <br/>
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase)](https://skillicons.dev)
   <br/>  
