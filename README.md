@@ -83,6 +83,12 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-mumo&hide=CMake,C++,jupyter%20notebook&layout=compact)
 
+  <br/>
+  <br/>
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=james-mumo" alt="id1945"/> </p>
+
+
 </div>
 
 
