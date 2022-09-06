@@ -32,6 +32,9 @@
 <!-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs) -->
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
+  [![My Skills](https://skillicons.dev/icons?i=angular,vue,react,linux,js,ts,vscode)](https://skillicons.dev)
+
+
 
 
 <!-- ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff) -->
