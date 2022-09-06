@@ -77,7 +77,6 @@
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=james-mumo&count_private=true&show_icons=true&theme=tokyonight)
 
 
-  <br/>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=james-mumo" alt="id1945"/> </p>
 
