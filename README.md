@@ -56,21 +56,10 @@
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </div>
 
-</div>
-
-#
-
-<div align="center">
-<h2> Currently Working On </h2>
-
--A BlockChain E-Commerce Web App. <br/>
--An Android Parking Spot App With Flutter.
-<!-- - [tech-stack.tools](https://tech-stack.tools) - 🗡️ Discover our curated list of creative tools to supercharge your next project.
-- [onetab.group](https://onetab.group) - 🔌 A Chrome extension in my sponsorware repos, like `one-tab`, but support restores `Tab Group` and more features. 
-- `fancy-qrcode` - Fancy QRCode generator for Web. -->
-
 ## My 𝗦𝘁𝗮𝘁𝘀
 </div>
+
+
 
 <div align="center">
 
@@ -89,6 +78,19 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-mumo&hide=CMake,C++,jupyter%20notebook&layout=compact)
 
   <br/>
+
+</div>
+
+#
+
+<div align="center">
+<h2> Currently Working On </h2>
+
+-A BlockChain E-Commerce Web App. <br/>
+-An Android Parking Spot App With Flutter.
+<!-- - [tech-stack.tools](https://tech-stack.tools) - 🗡️ Discover our curated list of creative tools to supercharge your next project.
+- [onetab.group](https://onetab.group) - 🔌 A Chrome extension in my sponsorware repos, like `one-tab`, but support restores `Tab Group` and more features. 
+- `fancy-qrcode` - Fancy QRCode generator for Web. -->
 
 </div>
 
