@@ -78,4 +78,8 @@
 
 </div>
 
+## Top Languages
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id1945&hide=javascript,html,typescript,css,jupyter%20notebook&layout=compact)
+
+
 
