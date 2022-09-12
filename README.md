@@ -1,14 +1,15 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
-
-
 
 <h3 align="center">
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"/>
  Hello Friend🖐, I'm James Mumo! 
  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"/>
 </h3>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;I+Am+A+FullStack+MERN/MERN+Developer!;Welcome+To+My+Github+Page!;Reach+Out+To+Me+For+Any+Task!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
 
 
 <div align="center">
