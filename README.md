@@ -14,7 +14,7 @@
 - 🤔 I’m looking for a new role in Node JS or just JavaScript
 - 💬 Ask me about React, NextJS, VueJS, NodeJS, and Fifa23
 - 😄 Pronouns: ... YES
-- ⚡ Fun fact: I can juggle three flaming torches while riding a unicycle (😉)
+- ⚡ Fav quote: If you’re smart, you’ll have a back-up plan. If you don’t, you’ll succeed.
 
 ```
 
