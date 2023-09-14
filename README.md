@@ -34,7 +34,6 @@
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=james-mumo&theme=gotham)
   
 
-
 [![wildcard98's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=james-mumo&hide=css,scss,objective-c,ruby,html&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
