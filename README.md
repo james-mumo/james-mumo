@@ -13,7 +13,7 @@
 - 🤔 I’m looking for a new role in Node JS or just JavaScript
 - 💬 Ask me about React, NextJS, VueJS, NodeJS, and Fifa23
 - 😄 Pronouns: ... YES
-- ⚡ Fav quote: If you’re smart, you’ll have a back-up plan. If you don’t, you’ll succeed.
+- ⚡ Fav quote: If you’re smart, you’ll have a back-up plan. If you don’t, you’ll succeed trust me.
 
 ```
 
