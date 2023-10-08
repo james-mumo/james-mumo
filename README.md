@@ -73,12 +73,10 @@
 ![EA Badge](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 
 
-
-
 </div>
 </div>
 <span style="font-size:22px">
-  10/3 - 9:51
+  10/8 - 04:04
 </span>
 
 
