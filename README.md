@@ -78,7 +78,7 @@
 </div>
 </div>
 <span style="font-size:22px">
-  10/25 - 07:00
+  10/28 - 05:00
 </span>
 
 
