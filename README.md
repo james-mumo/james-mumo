@@ -6,7 +6,6 @@
   </h3>
 </div>
 
-
 ```
 - 🔭 I’m currently working on Microservices in Python and NodeJS
 - 🌱 I’m currently learning Data Structures and Algorithms
@@ -78,7 +77,7 @@
 </div>
 </div>
 <span style="font-size:22px">
-  10/28 - 05:00
+  11/24 - 11:38
 </span>
 
 
