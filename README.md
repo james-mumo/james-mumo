@@ -14,7 +14,7 @@
 - 💬 Ask me about React, NextJS, VueJS, NodeJS, Python, ML/Ds, and Fifa23
 - 😄 Pronouns: ...YES, because in the world of coding, syntax errors don't discriminate.
 - 🧠 I'd share a UDP joke, but you might not get it, and I wouldn't care anyway.
-- 🤔 Took you a minute on that one, didn't it? If not, consider it a brief timeout for your TCP/IP humor stack – sometimes, even the funniest bits need a little buffering!
+- 🤔 Took you a minute on that one, didn't it? If not, consider it a brief timeout for your TCP/IP humor stack.
 
 ```
 
