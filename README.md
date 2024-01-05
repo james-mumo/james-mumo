@@ -12,8 +12,8 @@
 - 👯 I’m looking to collaborate on Fun Open Source projects
 - 🤔 I’m looking for a new role in Node JS or just JavaScript
 - 💬 Ask me about React, NextJS, VueJS, NodeJS, and Fifa23
-- 😄 Pronouns: ... YES
-- ⚡  Fav quote: If you’re smart, you’ll have a back-up plan. If you don’t, you’ll succeed trust me.
+- 😄 Pronouns: ...YES, because in the world of coding, syntax errors don't discriminate.
+- ⚡  NB: I would tell you a UDP joke, but you might not get it, and I wouldn't care if u did anyway.
 
 ```
 
