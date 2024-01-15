@@ -6,9 +6,9 @@
   </h3>
 </div>
 
-<span style="font-size:22px; text-align: right;">
+<div style="font-size:22px; text-align: right;">
   01/5  00:48
-</span>
+</div>
 
 ```
 - 🔭 I’m currently working on Microservices in Python and NodeJS
