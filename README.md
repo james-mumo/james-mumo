@@ -18,17 +18,16 @@ Took you a minute on that one, didn't it? If not, consider it a brief timeout fo
 
 ```
 
+<kbd style="border: 1px solid black; padding: 5px; font-size: 22px; text-align: right;">
+  01/5 00:48
+</kbd>
+
 <div align="center">
 <p>
 
 <img src="https://komarev.com/ghpvc/?username=james-mumo" alt="id1945"/> 
 
 </div>
-
-<kbd style="border: 1px solid black; padding: 5px; font-size: 22px; text-align: right;">
-  01/5 00:48
-</kbd>
-
 
 <div align="center" style="display: flex; flex-direction:column;  align-items:center; justify-content:center; margin:0; padding:0px 0px;">
 
