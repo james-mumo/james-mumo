@@ -6,6 +6,9 @@
   </h3>
 </div>
 
+<span style="font-size:22px" align="right">
+  01/5  00:48
+</span>
 
 ```
 - 🔭 I’m currently working on Microservices in Python and NodeJS
@@ -78,8 +81,6 @@ Took you a minute on that one, didn't it? If not, consider it a brief timeout fo
 
 </div>
 </div>
-<span style="font-size:22px">
-  01/5  00:48
-</span>
+
 
 
