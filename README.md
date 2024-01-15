@@ -6,9 +6,10 @@
   </h3>
 </div>
 
-<div style="font-size:22px; text-align: right;">
-  01/5  00:48
-</div>
+<kbd style="border: 1px solid black; padding: 5px; font-size: 22px; text-align: right;">
+  01/5 00:48
+</kbd>
+
 
 ```
 - 🔭 I’m currently working on Microservices in Python and NodeJS
