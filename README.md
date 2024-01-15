@@ -6,7 +6,7 @@
   </h3>
 </div>
 
-<span style="font-size:22px" align="right">
+<span style="font-size:22px; text-align: right;">
   01/5  00:48
 </span>
 
