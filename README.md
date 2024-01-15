@@ -6,11 +6,6 @@
   </h3>
 </div>
 
-<kbd style="border: 1px solid black; padding: 5px; font-size: 22px; text-align: right;">
-  01/5 00:48
-</kbd>
-
-
 ```
 - 🔭 I’m currently working on Microservices in Python and NodeJS
 - 🌱 I’m currently learning Data Structures and Algorithms
@@ -27,6 +22,10 @@ Took you a minute on that one, didn't it? If not, consider it a brief timeout fo
 <p>
 
 <img src="https://komarev.com/ghpvc/?username=james-mumo" alt="id1945"/> 
+
+<kbd style="border: 1px solid black; padding: 5px; font-size: 22px; text-align: right;">
+  01/5 00:48
+</kbd>
 
 </div>
 
