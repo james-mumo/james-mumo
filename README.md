@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on Microservices in Python and NodeJS
 - 🌱 I’m currently working Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Fun Open Source projects
-- 🤔 I’m looking for a new role in Node JS or just JavaScript
 - 💬 Ask me about React, NextJS, VueJS, NodeJS, Python, ML/Ds, and Fifa23
 - 😄 Pronouns: ...YES, because in the world of coding, syntax errors don't discriminate.
 - 🎭 I'd share a UDP joke, but you might not get it, and I wouldn't care anyway.
