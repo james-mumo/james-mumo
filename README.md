@@ -84,6 +84,6 @@ Took you a minute on that one, didn't it? If not, consider it a brief timeout fo
 </div>
 
 
-رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا
+رَبِّ إِنِّي لِمَآ أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ 
 
 
