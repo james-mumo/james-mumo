@@ -9,7 +9,7 @@
 
 ```
 - 🔭 I’m currently working on Microservices in Python and NodeJS
-- 🌱 I’m currently working Data Structures and Algorithms
+- 🌱 I’m currently working on Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Fun Open Source projects
 - 💬 Ask me about React, NextJS, VueJS, NodeJS, Python, ML/Ds, and Fifa23
 - 😄 Pronouns: ...YES, because in the world of coding, syntax errors don't discriminate.
