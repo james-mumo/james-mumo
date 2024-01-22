@@ -9,7 +9,7 @@
 
 ```
 - 🔭 I’m currently working on Microservices in Python and NodeJS
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently working Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Fun Open Source projects
 - 🤔 I’m looking for a new role in Node JS or just JavaScript
 - 💬 Ask me about React, NextJS, VueJS, NodeJS, Python, ML/Ds, and Fifa23
