@@ -83,6 +83,7 @@ Took you a minute on that one, didn't it? If not, consider it a brief timeout fo
 </div>
 
 RouterPassword admin1
+username is root
 ip_is http://192.168.100.1/index.asp
 
 رَبِّ إِنِّي لِمَآ أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ 
