@@ -82,8 +82,8 @@ Took you a minute on that one, didn't it? If not, consider it a brief timeout fo
 </div>
 </div>
 
-RouterPassword Nehemiah2006
-ip_is http://192.168.2.1/index.html
+RouterPassword admin1
+ip_is http://192.168.100.1/index.asp
 
 رَبِّ إِنِّي لِمَآ أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ 
 
