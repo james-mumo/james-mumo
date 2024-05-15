@@ -6,7 +6,6 @@
   </h3>
 </div>
 
-
 ```
 - 🔭 I’m currently working on Microservices in Python and NodeJS
 - 🌱 I’m currently working on Data Structures and Algorithms
@@ -19,7 +18,7 @@ Took you a minute on that one, didn't it? If not, consider it a brief timeout fo
 ```
 
 <kbd style="border: 1px solid black; padding: 5px; font-size: 22px; text-align: right;">
-  ⚡ 04/14 21:45 [11:11'] ⚡
+  ⚡ 05/15 [12:15'] ⚡
 </kbd>
 
 <div align="center">
