@@ -19,7 +19,8 @@ Took you a minute on that one, didn't it? If not, consider it a brief timeout fo
 ```
 
 <kbd style="border: 1px solid black; padding: 5px; font-size: 22px; text-align: right;">
-  ⚡ 03/06 [23:19'] ⚡
+  ⚡ 06/06 [02:27'] ⚡
+  https://www.youtube.com/watch?v=ILCDfIBn1fw
 </kbd>
 
 <div align="center">
