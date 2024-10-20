@@ -19,7 +19,7 @@ Took you a minute on that one, didn't it? If not, consider it a brief timeout fo
 ```
 
 <kbd style="border: 1px solid black; padding: 5px; font-size: 22px; text-align: right;">
-  ⚡ 20/10 [10:30'] ⚡
+  ⚡ 20/10 [16:44'] ⚡
 </kbd>
 
 <div align="center">
