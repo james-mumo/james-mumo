@@ -6,6 +6,9 @@
   </h3>
 </div>
 
+<kbd style="border: 1px solid black; padding: 5px; font-size: 22px; text-align: right;">
+ 🌟 [17/03 [00:04'] 🌟  -  🕒  [21/02 [06:18] 🕒 
+</kbd>
 
 ```
 - 🔭 I’m currently working on Microservices in Python and NodeJS
