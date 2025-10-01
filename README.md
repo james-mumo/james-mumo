@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on Microservices in Python and NodeJS
 - 🌱 I’m also working on Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Fun Open Source projects
-- 💬 Ask me about React, NextJS, VueJS, NodeJS, Python, ML/Ds, and Fifa23
+- 💬 Ask me about React, NextJS, VueJS, NodeJS, Python, ML/Ds, and GoLang
 - 😄 Pronouns: ...YES, because in the world of coding, syntax errors don't discriminate.
 - 🎭 I'd share a UDP joke, but you might not get it, and I wouldn't care anyway.
 Took you a minute on that one, didn't it? If not, consider it a brief timeout for your TCP/IP humor stack.
@@ -20,7 +20,7 @@ Took you a minute on that one, didn't it? If not, consider it a brief timeout fo
 ```
 
 <kbd style="border: 1px solid black; padding: 5px; font-size: 22px; text-align: right;">
-  ⚡  [19/09 [23:19]  ⚡
+  ⚡  [01/10 [11:11]  ⚡
 </kbd>
 
 <div align="center">
